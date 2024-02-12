@@ -4,3 +4,6 @@
 [submodule "rock_paper_scissors"]
 	path = rock_paper_scissors
 	url = https://github.com/HalfMoonRain/rock_paper_scissors.git
+[submodule "router-example"]
+	path = router-example
+	url = https://github.com/HalfMoonRain/router-example.git
