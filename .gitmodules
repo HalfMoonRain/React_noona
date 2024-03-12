@@ -1,9 +1,9 @@
-[submodule "React_noona"]
-	path = React_noona
-	url = https://github.com/HalfMoonRain/weather-app.git
 [submodule "rock_paper_scissors"]
 	path = rock_paper_scissors
 	url = https://github.com/HalfMoonRain/rock_paper_scissors.git
 [submodule "router-example"]
 	path = router-example
 	url = https://github.com/HalfMoonRain/router-example.git
+[submodule "weather-app"]
+	path = weather-app
+	url = https://github.com/HalfMoonRain/weather-app.git
