@@ -7,3 +7,6 @@
 [submodule "weather-app"]
 	path = weather-app
 	url = https://github.com/HalfMoonRain/weather-app.git
+[submodule "hnm-shopping"]
+	path = hnm-shopping
+	url = https://github.com/HalfMoonRain/hnm-shopping.git
