@@ -10,3 +10,7 @@
 [submodule "hnm-shopping"]
 	path = hnm-shopping
 	url = https://github.com/HalfMoonRain/hnm-shopping.git
+[submodule "redux-practice"]
+	path = redux-practice
+	url = https://github.com/HalfMoonRain/redux-practice
+	branch = main
