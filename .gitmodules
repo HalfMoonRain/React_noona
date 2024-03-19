@@ -14,3 +14,7 @@
 	path = redux-practice
 	url = https://github.com/HalfMoonRain/redux-practice
 	branch = main
+[submodule "noona-phonebook"]
+	path = noona-phonebook
+	url = https://github.com/HalfMoonRain/noona-phonebook
+	branch = main
