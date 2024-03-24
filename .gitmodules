@@ -18,3 +18,7 @@
 	path = noona-phonebook
 	url = https://github.com/HalfMoonRain/noona-phonebook
 	branch = main
+[submodule "react-query"]
+	path = react-query
+	url = https://github.com/HalfMoonRain/react-query.git
+	branch = main
