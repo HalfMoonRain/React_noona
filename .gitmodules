@@ -22,3 +22,8 @@
 	path = react-query
 	url = https://github.com/HalfMoonRain/react-query.git
 	branch = main
+
+[submodule "netflix-demo"]
+	path = netflix-demo
+	url = https://github.com/HalfMoonRain/netflix-demo.git
+	branch = main
